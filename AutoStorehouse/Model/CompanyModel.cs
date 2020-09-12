@@ -8,6 +8,6 @@ namespace AutoStorehouse.Model
 {
     public class CompanyModel : ErrorModel
     {
-        public Company AccountCompany { get; set; }
+        public Company AccountCompany { get; set; } 
     }
 }
