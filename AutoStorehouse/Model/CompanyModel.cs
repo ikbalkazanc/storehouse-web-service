@@ -8,7 +8,7 @@ namespace AutoStorehouse.Model
 {
     public class CompanyModel : ErrorModel
     {
-        int t = 0;
+        
         public Company AccountCompany { get; set; }  
     }
 }
