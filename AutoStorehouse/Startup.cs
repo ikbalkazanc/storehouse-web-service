@@ -36,7 +36,7 @@ namespace AutoStorehouse
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();       
 
             app.UseRouting();
 
